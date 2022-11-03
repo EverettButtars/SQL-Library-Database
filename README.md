@@ -22,7 +22,6 @@ Python made this project very easy to work with. Pandas also was used primarily 
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [W3Schools](https://www.w3schools.com/sql/)
 * [GeeksForGeeks](https://www.geeksforgeeks.org/mysql-common-mysql-queries/)
 
